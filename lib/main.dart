@@ -11,9 +11,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Pizza App',
+      title: 'Donut App UI Animation',
       theme: ThemeData(
-        fontFamily: 'Poppins',
         primaryColor: const Color(0xFF0A1529),
         colorScheme: ColorScheme.fromSeed(
             seedColor: const Color(0xFFFFB325),
